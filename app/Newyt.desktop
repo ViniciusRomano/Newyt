@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Newyt
+Exec=/usr/bin/newyt.py
+Icon=/usr/share/icons/gnome/512x512/apps/newyt.png
+Name[pt_BR]=NewYt
